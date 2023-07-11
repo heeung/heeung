@@ -12,6 +12,6 @@
   <img src="https://img.shields.io/badge/-white?style=flat-square&logo=C&logoColor=black"/>
 
   </br>
-  <h3>blog</h3>
+  <h3>📌 blog</h3>
   <p>https://velog.io/@heeung</p>
 </div>
