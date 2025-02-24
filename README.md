@@ -4,7 +4,7 @@
 [//]: # (<br>)
 [//]: # (![heeung's Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=heeung&layout=compact&theme=dark&#41;)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeung&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeung&show_icons=true&theme=nord)
 
 <h3>📌 tech stacks</h3>
 <img src="https://img.shields.io/badge/kotlin-333333?style=for-the-badge&logo=kotlin&logoColor="/>
